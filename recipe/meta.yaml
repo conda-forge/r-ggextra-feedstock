@@ -33,6 +33,7 @@ requirements:
     - r-scales >=0.2.0
     - r-shiny >=0.13.0
     - r-shinyjs >=0.5.2
+    - r-r6
   run:
     - r-base
     - r-colourpicker >=1.0
@@ -42,6 +43,7 @@ requirements:
     - r-scales >=0.2.0
     - r-shiny >=0.13.0
     - r-shinyjs >=0.5.2
+    - r-r6
 
 test:
   commands:
@@ -51,6 +53,7 @@ test:
 about:
   home: https://github.com/daattali/ggExtra
   license: MIT
+  license_file: LICENSE
   summary: Collection of functions and layers to enhance 'ggplot2'. The  flagship function is
     'ggMarginal()', which can be used to add marginal histograms/boxplots/density plots
     to 'ggplot2' scatterplots.
@@ -59,8 +62,3 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - johanneskoester
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer

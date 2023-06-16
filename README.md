@@ -1,11 +1,11 @@
-About r-ggextra
-===============
+About r-ggextra-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggextra-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/daattali/ggExtra
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggextra-feedstock/blob/main/LICENSE.txt)
 
 Summary: Collection of functions and layers to enhance 'ggplot2'. The  flagship function is 'ggMarginal()', which can be used to add marginal histograms/boxplots/density plots to 'ggplot2' scatterplots.
 
